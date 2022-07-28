@@ -107,6 +107,13 @@ public class InsertDetails extends AppCompatActivity {
             }
         });
     }
+
+    /**
+     * This method if for validation of user input
+     * @return
+     *      returns true when user inserts valid data. otherwise returns false
+     */
+
     private boolean CheckFieldValidity() {
         if (date.length() == 0) {
             date.setError("This field is required");
