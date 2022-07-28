@@ -20,10 +20,18 @@
         <entry key="..\:/Users/User/OneDrive/Desktop/App/Tashin Software/CardiacMeasurementManager/app/src/main/res/layout/activity_update_measurement.xml" value="0.1634963768115942" />
         <entry key="..\:/Users/User/OneDrive/Desktop/App/Tashin Software/CardiacMeasurementManager/app/src/main/res/layout/activity_view_details.xml" value="0.1634963768115942" />
         <entry key="..\:/Users/User/OneDrive/Desktop/App/Tashin Software/CardiacMeasurementManager/app/src/main/res/layout/row_view.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/User/OneDrive/Desktop/project/Cardiac_Measurement_Recorder/app/src/main/res/layout/activity_splash_screen.xml" value="0.15217391304347827" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop" />
+    <option name="OPTION_NAVIGATOR" value="false" />
+    <option name="OPTION_INDEX" value="false" />
+    <option name="OPTION_SEPARATE_INDEX" value="false" />
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="false" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

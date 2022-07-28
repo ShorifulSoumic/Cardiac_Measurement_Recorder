@@ -1,5 +1,4 @@
 package com.example.cardiacmeasurementmanager;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -32,6 +31,13 @@ public class RecordList {
             throw new IllegalArgumentException();
         }
     }
+
+    /*public void updateRecord (Record old_record,Record new_record) {
+        old_record = new_record;
+    }
+    public void fetchListromDB () {
+    }*/
+
     /**
      * This method is for returning a sorted list
      * @return
